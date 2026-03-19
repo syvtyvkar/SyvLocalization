@@ -1,2 +1,2 @@
 # SyvLocalization
-Custom Unreal Engine localization system based JSON
+Plugin custom Unreal Engine localization system based JSON
